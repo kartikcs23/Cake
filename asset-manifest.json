@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Cake/static/css/main.89b1b771.css",
+    "main.js": "/Cake/static/js/main.d39be4c2.js",
+    "static/js/453.9b8256f7.chunk.js": "/Cake/static/js/453.9b8256f7.chunk.js",
+    "index.html": "/Cake/index.html",
+    "main.89b1b771.css.map": "/Cake/static/css/main.89b1b771.css.map",
+    "main.d39be4c2.js.map": "/Cake/static/js/main.d39be4c2.js.map",
+    "453.9b8256f7.chunk.js.map": "/Cake/static/js/453.9b8256f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89b1b771.css",
+    "static/js/main.d39be4c2.js"
+  ]
+}
